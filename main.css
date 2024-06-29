@@ -1,0 +1,57 @@
+main {
+    display:flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.text {
+    width: 100%;
+    border: 25px solid #5e81e1;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+
+.card1 {
+    border: 3px solid #1bb1c4;
+    width: 410px;
+    height: 550px;
+    margin-left: 20px;
+}
+.card2{ 
+    border: 2px solid #1bb1c4;
+    width: 410px;
+    height: 550px;
+    margin-left: 20px;
+}
+.card3 {
+    border: 2px solid #1bb1c4;
+    width: 410px;
+    height: 550px;
+    margin-left: 20px;
+}
+
+.card1 {
+    box-shadow: 0 0 16px #1bb1c4;
+   
+}
+
+.card2 {
+    box-shadow: 0 0 16px #1bb1c4;
+}
+
+.card3 {
+    box-shadow: 0 0 16px #1bb1c4;
+}
+
+.rasm {
+    margin-top: 20px;
+    width: 400px;
+    height: 400px;
+    margin-left: 20px;
+}
+
+.txt {
+    margin-left: 25px;
+}
